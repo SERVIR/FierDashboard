@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+aiofiles
+jinja2
+xarray
+numpy
+pandas
+
